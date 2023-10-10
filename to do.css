@@ -96,9 +96,3 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
-.input-box{
-    font-family: 'poppins', sans-serif;
-    color: #002765;
-    font-size: 150px;
-    font-weight: "bold";
-}
